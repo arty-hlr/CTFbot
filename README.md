@@ -1,7 +1,7 @@
 # CTFbot
 Discord CTF bot
 
-[COMING SOON]
+[ARCHIVED]
 
 Discord bot for CTFtime and CTFing in general, under construction.
 
@@ -16,3 +16,5 @@ List of features to be developped:
 * Calendar to choose our CTFs
 * Colors for "working" and "solved" challenges
 * ... and more to come
+
+(will probably never be finished, but hell maybe one day I'll use the code template for another bot!)
